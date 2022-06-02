@@ -1206,7 +1206,7 @@ Style of exported class names.
 
 By default, the exported JSON keys mirror the class names (i.e `asIs` value).
 
-> ⚠ Only `camelCaseOnly` value allowed if you set the `namedExport` value to `true`.
+> ⚠ Only `camelCaseOnly` or `dashesOnly` value allowed if you set the `namedExport` value to `true`.
 
 |         Name          |   Type   | Description                                                                                      |
 | :-------------------: | :------: | :----------------------------------------------------------------------------------------------- |
